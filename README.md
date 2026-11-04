@@ -1,5 +1,4 @@
 # MAC-101-Midterm
-# MAC101 Midterm Project
 
 ## Task 1: GitHub Profile Enhancement
 
